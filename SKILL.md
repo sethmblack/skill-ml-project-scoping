@@ -3,7 +3,7 @@ name: ml-project-scoping
 description: Scope and validate an ML project before committing resources to ensure feasibility and business value. "I've seen more companies fail by starting too big than by starting too small.
 license: MIT
 metadata:
-  version: 1.0.4513
+  version: 1.0.4514
   author: sethmblack
 repository: https://github.com/sethmblack/paks-skills
 keywords:
